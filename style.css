@@ -49,6 +49,10 @@ body {
         -1px 1px 10px black,
         1px 1px 10px black;
     background-color: white;
+     transition-duration: 0.5s;
+}
+.card:hover {
+    scale: 1.1;
 }
 
 .card figure {
